@@ -9,5 +9,7 @@ public class Main {
         Book society = new Book("The consumer society", baudrillard, 1970);
 
         society.setYearOfPublication(2010);
+
+        System.out.println(whispers);
     }
 }
